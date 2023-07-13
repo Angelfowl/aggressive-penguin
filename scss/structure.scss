@@ -2,18 +2,28 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+};
 
 body {
-    background-color: #243048;
-}
+    background-color: #211F37;
+};
 
 @font-face {
     font-family: Orbit;
     src: url(/css/fonts/Orbitron/Orbitron-VariableFont_wght.ttf);
-}
+};
 
 @font-face {
     font-family: PTSans;
     src: url(/css/fonts/PT_Sans_Narrow/PTSansNarrow-Regular.ttf);
-}
+};
+
+$colorOne: #211F37;
+
+$colorTwo: #6855A4;
+
+$colorThree: #686183;
+
+$colorFour: #405DAB;
+
+$colorFive: #BCBFDE;
